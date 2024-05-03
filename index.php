@@ -63,10 +63,6 @@
                         <input type="text" id="nama" name="nama" class="w-full rounded border-gray-300">
                     </div>
                     <div class="mb-4">
-                        <label for="alamat" class="block text-gray-700">Alamat:</label>
-                        <input type="text" id="alamat" name="alamat" class="w-full rounded border-gray-300">
-                    </div>
-                    <div class="mb-4">
                         <label for="prodi" class="block text-gray-700">prodi:</label>
                         <input type="text" id="prodi" name="prodi" class="w-full rounded border-gray-300">
                     </div>
